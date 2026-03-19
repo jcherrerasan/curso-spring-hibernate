@@ -1,26 +1,24 @@
-# Repo del Proyecto — Portfolio
+# Repo del proyecto
 
-**Alumno:** [Tu Nombre Apellido]
+- **Alumno:** Jennifer Herrera
+- **Nombre:** Domus_Asesores
+- **Repositorio**: https://github.com/jcherrerasan/Domus_Asesores.git
 
-**Nombre del proyecto:** [Ej: Cine Estrella]
+----------------------
 
-**Repo:** [https://github.com/TU_USUARIO/nombre-del-proyecto](https://github.com/TU_USUARIO/nombre-del-proyecto)
-
----
-
-## Verificacion rapida
+## Verificación rápida
 
 Marca lo que aplique a tu repo:
 
-- [ ] El repo es **publico**
-- [ ] El README tiene descripcion, tecnologias y como ejecutar
-- [ ] Swagger UI funciona en `/swagger-ui.html`
-- [ ] `docker compose up` levanta todo sin errores
-- [ ] GitHub Actions tiene badge verde en el README
-- [ ] Hay capturas en `docs/screenshots/` incrustadas en el README
+- [X] El repo es **público**
+- [X] El README tiene descripción, tecnologías y como ejecutar
+- [X] Swagger UI funciona en `/swagger-ui.html`
+- [X] `docker compose up` levanta todo sin errores
+- [X] GitHub Actions tiene badge verde en el README
+- [X] Hay capturas en `docs/screenshots/` incrustadas en el README
 
 ---
 
-## Notas (opcional)
+## Notas 
 
-[Si quieres explicar algo sobre tu repo — decisiones, problemas resueltos, etc.]
+He hecho un pequeño front algunas funcionalidades no están del todo bien. Se irán corrigendo errores a la mayor brevedad posible

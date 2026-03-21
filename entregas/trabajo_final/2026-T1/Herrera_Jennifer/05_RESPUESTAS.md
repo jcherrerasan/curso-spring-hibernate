@@ -20,12 +20,13 @@ La alternativa correcta es usar paginación con `Pageable`, filtros y, si hace f
 
 Un error `400 Bad Request` significa que el cliente envío datos inválidos. En este proyecto sería, por ejemplo, crear un usuario con email inválido o nombre vacío.
 
-![400](\capturas\error400.png)
+<img width="1824" height="2304" alt="error400" src="https://github.com/user-attachments/assets/6ed6ae7a-fd1a-4146-816b-a7ef1eab5c5c" />
 
 
 Un error `500 Internal Server Error` significa que el fallo ocurre dentro del servidor. En este proyecto sería un error inesperado no controlado en tiempo de ejecución.
 
-![500](\capturas\error500.png)
+<img width="1900" height="2668" alt="error500" src="https://github.com/user-attachments/assets/5759c527-6094-4faa-9859-3f15823ee026" />
+
 
 
 ## 4. Escalabilidad

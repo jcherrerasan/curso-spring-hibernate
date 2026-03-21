@@ -287,23 +287,28 @@ http://localhost:5500
 
 Swagger:
 
-![Swagger](capturas/Swagger.png)
+<img width="1920" height="5658" alt="Swagger" src="https://github.com/user-attachments/assets/8d840c52-1463-41c6-b9ea-f206e296f872" />
+
 
 Adminer:
 
-![Adminer](capturas/Adminer.png)
+<img width="1742" height="872" alt="Adminer" src="https://github.com/user-attachments/assets/9efd59cb-fc4b-45f2-a193-e561439d2a49" />
+
 
 PostgreSQL:
 
-![PostgreSQL](capturas/postgres.png)
+<img width="1005" height="897" alt="postgres" src="https://github.com/user-attachments/assets/cd27008e-2084-4c16-ab2d-b5c84208067e" />
+
 
 Búsqueda desde Postman:
 
-![Postman búsqueda](capturas/Postman_busqueda.png)
+<img width="1112" height="858" alt="Postman_busqueda" src="https://github.com/user-attachments/assets/714ac9ce-a172-4c32-8680-e3360714332a" />
+
 
 Gestión de usuarios:
 
-![Postman usuarios](capturas/Postman_usuarios.png)
+<img width="1092" height="832" alt="Postman_usuarios" src="https://github.com/user-attachments/assets/8915a8e0-330d-4995-844c-c0339c42ef80" />
+
 
 ## Despliegue en Railway
 

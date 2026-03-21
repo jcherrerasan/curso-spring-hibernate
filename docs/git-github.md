@@ -107,7 +107,7 @@ git push
 # 1. Copia la plantilla
 cp -r trabajo_final/plantilla/ entregas/trabajo_final/2026-T1/apellido_nombre/
 
-# 2. Completa los archivos (PROMPTS.md, 01_README.md, etc.)
+# 2. Completa los archivos (PROMPTS.md, README.md, etc.)
 
 # 3. Commit y push
 git add entregas/trabajo_final/2026-T1/apellido_nombre/

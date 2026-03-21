@@ -139,14 +139,16 @@ debe quedar disponible:
 
 - Swagger UI en `http://localhost:8080/swagger-ui.html`
   
-![Swagger](\capturas\Swagger.png)
+  <img width="1920" height="5658" alt="Swagger" src="https://github.com/user-attachments/assets/0de1c3c4-f27c-444b-917f-8273d857013e" />
 
 - Adminer en `http://localhost:8081`
 
-  ![Adminer](\capturas\Adminer.png)
+  <img width="1742" height="872" alt="Adminer" src="https://github.com/user-attachments/assets/e1fd1553-87c9-4744-b166-5d78b286762f" />
 
 - Postgres
-  ![Postgres](\capturas\postgres.png)
+  
+ <img width="1005" height="897" alt="postgres" src="https://github.com/user-attachments/assets/e0557bd1-633c-42b1-afc4-8c5fb7c9e9ca" />
+
 ## Prompt usado para infraestructura
 
 ```text

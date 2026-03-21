@@ -63,12 +63,17 @@ Se eligió esta implementación porque es lo adecuado para una inmobiliaria que 
 Parece más difícil de lo que realmente es, aprendes a controlar variables con muy poco código.
 ## Evidencia
 ### Búsqueda avanzada
-![Postman](\capturas\Postman_busqueda.png)
+
+<img width="1112" height="858" alt="Postman_busqueda" src="https://github.com/user-attachments/assets/4b9d59b4-4f2c-47bb-aa14-cafbf2501ee0" />
+
 
 ### api/leads
-![Postman](\capturas\Postman_lead.png)
+
+<img width="1107" height="838" alt="Postman_lead" src="https://github.com/user-attachments/assets/b003c385-e9fd-43d5-a422-eec99f2ccfa7" />
+
 
 ### api/usuarios
-![Postman](\capturas\Postman_usuarios.png)
+
+<img width="1092" height="832" alt="Postman_usuarios" src="https://github.com/user-attachments/assets/cbfde8ec-f6e3-4b89-920c-db94075e11d7" />
 
 
